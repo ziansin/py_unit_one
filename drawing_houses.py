@@ -35,5 +35,4 @@ for x in range(4):
     h = h + 110
     turtle.goto(h,0)
 
-
 turtle.exitonclick()
